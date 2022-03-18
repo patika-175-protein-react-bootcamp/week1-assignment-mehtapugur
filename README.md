@@ -26,5 +26,3 @@
     - [Javascript ile To Do List](https://github.com/mehtapugur/kodluyoruzilkrepo/tree/main/Frontend%20Patikas%C4%B1/javascript/odev2)
   - Ödev 3 :heavy_check_mark:
     - [Asian Kitchen's Menu](https://github.com/mehtapugur/kodluyoruzilkrepo/tree/main/Frontend%20Patikas%C4%B1/javascript/odev3)
-<br><br>    
-Contact: [LinkedIn](https://www.linkedin.com/in/mehtapugur)
