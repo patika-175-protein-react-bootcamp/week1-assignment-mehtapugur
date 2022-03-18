@@ -10,17 +10,22 @@
     - [Çikolatalı Küp Tarifi](https://github.com/mehtapugur/kodluyoruzilkrepo/blob/main/Frontend%20Patikas%C4%B1/html/odev3/index.html)
 
 ### CSS
+
+  - Ödev 1 :heavy_check_mark:
+    - [Sayfamıza Biraz Makyaj Yapalım](https://github.com/mehtapugur/kodluyoruzilkrepo/tree/main/Frontend%20Patikas%C4%B1/css/odev1)
+  - Ödev 2 :heavy_check_mark:
+    - [Google Ana Sayfasını Tasarlamak](https://github.com/mehtapugur/kodluyoruzilkrepo/tree/main/Frontend%20Patikas%C4%B1/css/odev2)
+  - Ödev 3 :heavy_check_mark:
+    - [Google Ana Sayfasını Tasarlamak](https://github.com/mehtapugur/kodluyoruzilkrepo/blob/main/Frontend%20Patikas%C4%B1/css/odev3/index.html)
+  
 ### JavaScript
 
-
-## :camera_flash: Screenshots
-
-| Start | Finish | 
-| --- | --- |
-| <img src="https://user-images.githubusercontent.com/24686636/147887007-5bfa427b-a168-4190-a432-636eb7b52ec3.png"> | <img src="https://user-images.githubusercontent.com/24686636/147887046-46e0c707-5e0a-4866-ad45-5ca08b6fa305.png"> |
-
-
-
-<br/>
-<br/>
+  - Ödev 1 :heavy_check_mark:
+    - [Javascript Saat ve Karşılama](https://github.com/mehtapugur/kodluyoruzilkrepo/tree/main/Frontend%20Patikas%C4%B1/javascript/odev1)
+  - Ödev 2 :heavy_check_mark:
+    - [Javascript ile To Do List](https://github.com/mehtapugur/kodluyoruzilkrepo/tree/main/Frontend%20Patikas%C4%B1/javascript/odev2)
+  - Ödev 3 :heavy_check_mark:
+    - [Asian Kitchen's Menu](https://github.com/mehtapugur/kodluyoruzilkrepo/tree/main/Frontend%20Patikas%C4%B1/javascript/odev3)
+  
+  
 Contact: [LinkedIn](https://www.linkedin.com/in/mehtapugur)
