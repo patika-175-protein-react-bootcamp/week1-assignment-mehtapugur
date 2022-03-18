@@ -1,5 +1,5 @@
 ## HTML, CSS ve JavaScript Modüllerine Ait Ödevler
-<br><br>  
+<br>
 ### HTML
 
   - Ödev 1 :heavy_check_mark:
